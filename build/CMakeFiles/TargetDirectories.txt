@@ -1,0 +1,3 @@
+/home/vasilisa/project/my_cpp_project/build/CMakeFiles/main.dir
+/home/vasilisa/project/my_cpp_project/build/CMakeFiles/edit_cache.dir
+/home/vasilisa/project/my_cpp_project/build/CMakeFiles/rebuild_cache.dir
